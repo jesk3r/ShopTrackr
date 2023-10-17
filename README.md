@@ -3,6 +3,27 @@
 
 This API provides endpoints to manage products, categories, tags, and their associations in an e-commerce application.
 
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository_url>
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd social-network-express-mongodb
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+
 ## Endpoints
 
 ### Tags
