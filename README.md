@@ -1,7 +1,11 @@
 # ShopTrackr
 
-
 This API provides endpoints to manage products, categories, tags, and their associations in an e-commerce application.
+
+## Prerequisites
+
+- Node.js and npm installed on your machine.
+- SQl server running locally.
 
 ## Installation
 
@@ -14,7 +18,7 @@ This API provides endpoints to manage products, categories, tags, and their asso
 2. Navigate to the project directory:
 
    ```bash
-   cd social-network-express-mongodb
+   cd ShopTrackr
    ```
 
 3. Install dependencies:
